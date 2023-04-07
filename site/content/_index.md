@@ -1,20 +1,37 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: El Blog de Víctor Casas San Miguel
+subtitle: Derecho y Tecnologías de la Información y las Comunicaciones
+image: img/law-technology-lw.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: ¿Por qué otro Blog?
+  text: Tanto el Derecho como la Informática son materias mucho más complejas hoy
+    de lo que lo eran hace dos décadas. Sin embargo pocas respuestas quedan sin
+    respuesta si se maneja la información necesaria dentro del océano de
+    información que es Internet.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Lo que ofrecemos
+  text: >
+    Hoy queremos poner a disposición del público en general informaciones
+    valiosas sobre El Mundo de la programación informática y la tecnología de la
+    información y la comunicaciones, y sobre hoy las novedades legislativas, hoy
+    las resoluciones judiciales relevante es guías explicativas de conceptos que
+    en principio pueden ser difíciles de entender.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/office-worker-light-skin-tone-svgrepo-com.svg
+    text: >
+      La Informática Jurídica, que es el sector de la informática orientado a
+      ofrecer funcionalidad a los profesionales del derecho, y del Derecho de
+      las Nuevas Tecnologías, como rama del derecho transversal al mismo que
+      aborda el impacto de estas tecnologías en todas las áreas del Derecho.
+  - image: img/hacker-svgrepo-com.svg
+    text: >
+      El Derecho de las Nuevas Tecnologías, como rama del derecho transversal al
+      mismo que aborda el impacto de estas tecnologías en todas las áreas del
+      Derecho.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
-
