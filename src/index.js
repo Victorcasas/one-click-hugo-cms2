@@ -10,7 +10,7 @@ console.log(location.pathname);
 //
 var image = document.createElement('meta');
 image.setAttribute('property', 'og:image');
-image.content = document.getElementsByTagName('img')[0].src;
+image.content = document.getElementsByTagName('img')[1].src;
 document.getElementsByTagName('head')[0].appendChild(image);
 
 
