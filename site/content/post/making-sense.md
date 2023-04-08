@@ -4,8 +4,6 @@ date: 2023-04-08T13:57:59.687Z
 description: Creado en 1996 por [James Gosling](https://es.wikipedia.org/wiki/James_Gosling), Java continúa siendo uno de los lenguajes de programación más conocidos por el público y ampliamente utilizado en universidades, bancos, administraciones públicas, empresas, proyectos open-source y startups.
 image: /img/blog-flavor_wheel.jpg
 ---
-Creado en 1996 por el canadiense [James Gosling](https://es.wikipedia.org/wiki/James_Gosling), Java continúa siendo hoy uno de los lenguajes de programación más conocidos por el público y es ampliamente utilizado en universidades, bancos, administraciones públicas, empresas, proyectos open-source y startups.
-
 Gran cantidad de empresas de Software referentes en la industria utilizan Java como uno de sus lenguajes principales en sus desarrollos:
 
 * **[Google](https://www.google.com/)** usa Java para el backend de la mayoría de sus grandes proyectos como su buscador, Gmail, Maps, etc. Adicionalmente, Google ha publicado una gran cantidad de bibliotecas (librerías) de código abierto en la que podemos ver el uso de java es impresionante.
