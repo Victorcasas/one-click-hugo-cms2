@@ -1,5 +1,5 @@
 ---
-title: El Blog de <br> Víctor Casas San Miguel
+title: El Blog de
 subtitle: Derecho y Tecnologías de la Información y de las Comunicaciones
 image: img/law-technology-lw.jpg
 blurb:
