@@ -16,5 +16,5 @@ function customizeTitle() {
   var z = document.getElementsByClassName("f2 f1-l b di lh-title mb3 white mw6 bg-primary")[0];
   z.appendChild(y);
 }
-window.onload = customizeTitle;
+if (location.pathname = "/") {window.onload = customizeTitle;}
 
