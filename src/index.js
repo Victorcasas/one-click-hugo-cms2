@@ -9,15 +9,15 @@ console.log(location.pathname);
 // Customize title
 function customizeTitle() {
   var x = document.getElementsByTagName("H1")[0]; 
-  x.innerHTML = "El Blog de";
-  x.style.background = "";
+  x.style.removeProperty("background");
   x.style.color = "#ff4400";
+  x.innerHTML = "El Blog de";
   var y = document.createElement("H1"); 
   var t = document.createTextNode("Víctor Casas San Miguel");
   y.style.color = "#ff4400";
   //y.style.background = "rgba(175, 73, 1)";
   y.appendChild(t);
-  var z = document.getElementsByClassName("f2 f1-l b di lh-title mb3 white mw6 bg-primary")[0];
+  var z = document.getElementsByClassName("mw7 relative bg-fix-primary mb3")[0];
   z.appendChild(y);
 }
 if (location.pathname == "/") window.onload = customizeTitle;
