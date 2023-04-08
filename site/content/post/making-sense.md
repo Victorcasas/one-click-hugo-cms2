@@ -1,11 +1,10 @@
 ---
 title: ¿Qué es el lenguaje de programación Java?
 date: 2023-04-08T13:57:59.687Z
-description: Creado en 1996 por [James
-  Gosling](https://es.wikipedia.org/wiki/James_Gosling), Java continúa siendo
-  uno de los lenguajes de programación más conocidos por el público y
-  ampliamente utilizado en universidades, bancos, administraciones públicas,
-  empresas, proyectos open-source y startups.
+description: Creado en 1996 por James Gosling, Java continúa siendo uno de los
+  lenguajes de programación más conocidos por el público y ampliamente utilizado
+  en universidades, bancos, administraciones públicas, empresas, proyectos
+  open-source y startups.
 image: img/java.jpg
 ---
 Gran cantidad de empresas de Software referentes en la industria utilizan Java como uno de sus lenguajes principales en sus desarrollos:
