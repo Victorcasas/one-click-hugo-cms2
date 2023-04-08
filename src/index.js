@@ -11,6 +11,7 @@ function customizeTitle() {
   var x = document.getElementsByTagName("H1")[0]; 
   x.innerHTML = "El Blog de";
   x.style.background = "";
+  x.style.color = "rgb(175, 73, 30)";
   var y = document.createElement("H1"); 
   var t = document.createTextNode("Víctor Casas San Miguel");
   y.style.color = "rgb(175, 73, 30)";
