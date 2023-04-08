@@ -1,8 +1,7 @@
 ---
 title: ¿Qué es el lenguaje de programación Java?
 date: 2023-04-08T13:57:59.687Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
+description: Creado en 1996 por [James Gosling](https://es.wikipedia.org/wiki/James_Gosling), Java continúa siendo uno de los lenguajes de programación más conocidos por el público y ampliamente utilizado en universidades, bancos, administraciones públicas, empresas, proyectos open-source y startups.
 image: /img/blog-flavor_wheel.jpg
 ---
 Creado en 1996 por el canadiense [James Gosling](https://es.wikipedia.org/wiki/James_Gosling), Java continúa siendo hoy uno de los lenguajes de programación más conocidos por el público y es ampliamente utilizado en universidades, bancos, administraciones públicas, empresas, proyectos open-source y startups.
