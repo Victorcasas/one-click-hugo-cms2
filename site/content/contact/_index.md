@@ -1,19 +1,16 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Ubicación
+    text: 50008 Zaragoza
+  - heading: Horas de funcionamiento
+    text: "Lunes– Viernes: 9AM – 7PM Descansamos los fines de semana."
 ---
+Nos encantaría ponernos en contacto con usted y escuchar sus ideas y
+preguntas. Nos esforzamos por crecer y mejorar constantemente y sus comentarios
+son muy valiosos para nosotros.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+<h3 class="f4 b lh-title mb2">¿Cómo puedo conseguir...?</h3>
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+También puede utilizar el siguiente formulario para cualquier consulta sobre nuestros servicios y la concertación de una cita presencial con nuestros especialistas. No lo dude, ¡escríbanos!
