@@ -10,11 +10,11 @@ console.log(location.pathname);
 function customizeTitle() {
   var x = document.getElementsByTagName("H1")[0]; 
   x.innerHTML = "El Blog de";
-  //x.style.background = "rgba(175, 73, 1)";
-  x.style.color = "rgb(175, 73, 30)";
+  x.style.background = null;
+  x.style.color = "#ff4400";
   var y = document.createElement("H1"); 
   var t = document.createTextNode("Víctor Casas San Miguel");
-  y.style.color = "rgb(175, 73, 30)";
+  y.style.color = "#ff4400";
   //y.style.background = "rgba(175, 73, 1)";
   y.appendChild(t);
   var z = document.getElementsByClassName("f2 f1-l b di lh-title mb3 white mw6 bg-primary")[0];
