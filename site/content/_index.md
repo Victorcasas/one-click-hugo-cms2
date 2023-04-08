@@ -20,12 +20,12 @@ products:
     text: >
       La Informática Jurídica, como sector de la Informática orientado a ofrecer
       funcionalidad de todo tipo a los profesionales del derecho. Hablaremos de
-      aplicaciones informáticas, de su programación y uso, de de ofimática,
+      aplicaciones informáticas, de su programación y uso, de ofimática,
       dispositivos de comunicación, bases de datos, IA...
   - image: img/hacker-svgrepo-com.svg
     text: >
       El Derecho de las Nuevas Tecnologías, como rama del derecho transversal al
-      mismo que se ocupael impacto de estas tecnologías en todas las áreas del
+      mismo que se ocupa del impacto de estas tecnologías en todas las áreas del
       Derecho, imponiendo novedosas regulaciones y alterando la forma de
       funcionamiento de la justicia.
 values:
