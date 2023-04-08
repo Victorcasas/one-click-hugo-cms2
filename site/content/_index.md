@@ -26,8 +26,8 @@ products:
     text: >
       El Derecho de las Nuevas Tecnologías, como rama del derecho transversal al
       mismo que se ocupael impacto de estas tecnologías en todas las áreas del
-      Derecho, modificando su interpretación, imponiendo novedosas regulaciones
-      y alterando la forma de funcionamiento de la justicia.
+      Derecho, imponiendo novedosas regulaciones y alterando la forma de
+      funcionamiento de la justicia.
 values:
   heading: .
   text: .
