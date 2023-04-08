@@ -6,6 +6,14 @@ import "./css/main.css";
 console.log("🦊 Hello! Edit me in src/index.js");
 console.log(location.pathname);
 
+
+//
+var image = document.createElement('meta');
+image.setAttribute('property', 'og:image');
+image.content = document.getElementsByTagName('img')[0].src;
+document.getElementsByTagName('head')[0].appendChild(image);
+
+
 // Customize title
 function customizeTitle() {
   var x = document.getElementsByTagName("H1")[0]; 
