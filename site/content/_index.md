@@ -1,6 +1,6 @@
 ---
-title: El Blog de
-subtitle: Derecho y Tecnologías de la Información y de las Comunicaciones
+title: Blog
+subtitle: Derecho y Tecnologías de la Información y las Comunicaciones
 image: img/law-technology-lw.jpg
 blurb:
   heading: ¿Por qué otro Blog?
