@@ -4,9 +4,9 @@ subtitle: Derecho y Tecnologías de la Información y las Comunicaciones
 image: img/law-technology-lw.jpg
 blurb:
   heading: ¿Por qué otro Blog?
-  text: Tanto el Derecho como la Informática son materias más complejas hoy de lo
-    que lo eran hace unas décadas, y es díficil encontrar la información
-    necesaria dentro del océano de información que es Internet.
+  text: Tanto el Derecho como la Informática son hoy materias más complejas de lo
+    que eran hace unas décadas y es difícil encontrar la información necesaria
+    dentro del océano de información que es Internet.
 intro:
   heading: Lo que ofrecemos
   text: >
