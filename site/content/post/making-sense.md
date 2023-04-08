@@ -1,8 +1,12 @@
 ---
 title: ¿Qué es el lenguaje de programación Java?
 date: 2023-04-08T13:57:59.687Z
-description: Creado en 1996 por [James Gosling](https://es.wikipedia.org/wiki/James_Gosling), Java continúa siendo uno de los lenguajes de programación más conocidos por el público y ampliamente utilizado en universidades, bancos, administraciones públicas, empresas, proyectos open-source y startups.
-image: /img/blog-flavor_wheel.jpg
+description: Creado en 1996 por [James
+  Gosling](https://es.wikipedia.org/wiki/James_Gosling), Java continúa siendo
+  uno de los lenguajes de programación más conocidos por el público y
+  ampliamente utilizado en universidades, bancos, administraciones públicas,
+  empresas, proyectos open-source y startups.
+image: img/java.jpg
 ---
 Gran cantidad de empresas de Software referentes en la industria utilizan Java como uno de sus lenguajes principales en sus desarrollos:
 
@@ -35,7 +39,7 @@ Básicamente, Java trabaja con objetos que hacen referencia a datos dentro de su
 Java tiene muchas otras ventajas en términos de crecimiento y desarrollo profesional, revisemos algunas:
 
 * La **Comunidad** alrededor de Java es una de las más devotas y comprometidas. Cada mes existen conferencias relacionados con Java y grupos de usuarios de Java (**[JUG](https://community.oracle.com/community/java/jug)**), que se llevan a cabo en todo el mundo.
-* La **Documentación** en Java es bastante fuerte y muy completa ya sea para Java o como para sus diferentes frameworks. Además existen fotos, como [Baeldung](http://www.baeldung.com/), a lo largo de toda la web que publican una cantidad impresionante de tutoriales muy útiles.
+* La **Documentación** en Java es bastante fuerte y muy completa ya sea para Java o como para sus diferentes frameworks. Además existen foros, como [Baeldung](http://www.baeldung.com/), a lo largo de toda la web que publican una cantidad impresionante de tutoriales muy útiles.
 * El respaldo de **Oracle** le da muchísima vida asegurada por delante. De hecho **[Oracle](https://www.oracle.com/index.html)** no solo invierte en desarrollo de su lenguaje sino que fomenta también a la comunidad a su alrededor, en conferencias como [JavaOne](https://www.oracle.com/code-one/index.html) reconoce a los mejores developers nombrándolos [Java Champion](https://community.oracle.com/community/java/java-champions).
 * **Android** hoy en día tiene como lenguaje oficial para desarrollo de aplicaciones a Java. Al aprender bases de java tienes una gran variedad de opciones de especialización que no implicaran adquirir conocimientos diferentes, una de ellas es Android.
 
