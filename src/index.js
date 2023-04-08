@@ -26,5 +26,5 @@ function customizeTitle() {
   var z = document.getElementsByClassName("mw7 relative bg-fix-primary mb3")[0];
   z.appendChild(y);
 }
-if (location.pathname == "/") window.onload = customizeTitle;
+//if (location.pathname == "/") window.onload = customizeTitle;
 
