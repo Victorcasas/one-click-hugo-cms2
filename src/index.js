@@ -12,11 +12,14 @@ function customizeTitle() {
   x.style.removeProperty("background");
   x.style.color = "#ff4400";
   x.innerHTML = "El Blog de";
-  var y = document.createElement("H1"); 
+  //
+  y = x.cloneNode(true);
+  y.style.removeProperty("background")
+  //var y = document.createElement("H1"); 
   var t = document.createTextNode("Víctor Casas San Miguel");
-  y.style.color = "#ff4400";
+  y.appendChild(t)
+  //y.style.color = "#ff4400";
   //y.style.background = "rgba(175, 73, 1)";
-  y.appendChild(t);
   var z = document.getElementsByClassName("mw7 relative bg-fix-primary mb3")[0];
   z.appendChild(y);
 }
