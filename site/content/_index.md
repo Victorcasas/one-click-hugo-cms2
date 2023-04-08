@@ -1,6 +1,6 @@
 ---
 title: El Blog de Víctor Casas San Miguel
-subtitle: Derecho y Tecnologías de la Información y las Comunicaciones
+subtitle: Derecho y Tecnologías de la Información y de las Comunicaciones
 image: img/law-technology-lw.jpg
 blurb:
   heading: ¿Por qué otro Blog?
