@@ -1,6 +1,8 @@
 baseurl = "/"
 languageCode = "es"
 languageLang = "es"
+defaultContentLanguage = "es"
+defaultContentLang = "es"
 title = "Página de inicio"
 
 # RSS, categories and tags disabled for an easy start
