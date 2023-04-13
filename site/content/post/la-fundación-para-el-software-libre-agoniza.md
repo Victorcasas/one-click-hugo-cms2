@@ -13,12 +13,12 @@ description: >-
   Hoy, casi 40 años después, la FSF agoniza.
 image: img/free-soft.jpg
 ---
-Sus logros son inconfundibles y le debemos nuestra gratitud y admiración por décadas de hitos en el establecimiento y avance de nuestra causa. Los principios de la libertad del software son más importantes que nunca, y los productos de estas instituciones siguen siendo necesarios y útiles: la familia de licencias GPL, GCC, GNU coreutils, etcétera. Sin embargo, las organizaciones detrás de este trabajo se están tambaleando.
+Sus logros son inconfundibles y le debemos nuestra gratitud y admiración por décadas de hitos en el establecimiento y avance de nuestra causa. Los principios de la libertad del software son más importantes que nunca y los productos de esta institución siguen siendo necesarios y útiles: la familia de licencias GPL, GCC, GNU coreutils, etcétera. Sin embargo, las organizaciones detrás de este trabajo se están tambaleando.
 
->  La **[Free Software Foundation ](https://www.fsf.org/)**debe preocuparse por encima de todo de los siguientes fines: 
+>  La **[Free Software Foundation ](https://www.fsf.org/)**debe ocuparse sobre todo de los objetivos siguientes: 
 >
 > * Difundir la filosofía del software libre
-> * Desarrollar, publicar y promover licencias *copyleft*
+> * Desarrollar, publicar y promover licencias copyleft
 > * Supervisar la salud del movimiento del software libre.
 
 Está fallando en cada uno de estos aspectos, y mientras su misión principal falla, la fundación está invirtiendo sus recursos en distracciones.
@@ -39,4 +39,4 @@ Las reformas son urgentes para que la FSF cumpla su misión básica. En particul
 4. **Desvincular la FSF del proyecto GNU**. La FSF y GNU han trabajado mano a mano durante décadas para construir el movimiento desde cero, pero su relación privilegiada se ha vuelto obsoleta. El proyecto GNU representa una fracción minúscula del ecosistema del software libre hoy en día, y es necesario que la Free Software Foundation se mantenga independiente de cualquier proyecto en particular y se centre en la salud del ecosistema en su conjunto.
 5. **Desarrollar nuevas licencias copyleft**. La familia de licencias GPL nos ha servido bien, pero necesitamos hacerlo mejor. La mejor licencia copyleft actual es la MPL, cuya forma concisa y lenguaje accesible supera a la GPL en muchos aspectos. Sin embargo, no proporciona una respuesta completa a las necesidades del copyleft, y se necesitan nuevas licencias para cubrir otros nichos del mercado; la FSF debería escribir estas licencias. Además, la FSF debería presentar a la comunidad una perspectiva del software libre sobre las licencias como un recurso en el que los líderes de proyectos puedan confiar para entender la importancia de su elección de licencia, de forma que comprendan el atractivo de las licencias copyleft sin sentirse empujados a alejarse de los enfoques permisivos.
 
-El movimiento por el software libre necesita una poderosa fuerza que lo una: nos enfrentamos a retos de muchos frentes, y la actual Free Software Foundation no está a la altura de la tarea. El ecosistema del software libre y abierto está floreciendo, y es hora de que la FSF tome las riendas y dirija sus próximos éxitos en nombre de la libertad del software.
+El movimiento por el software libre necesita una poderosa fuerza que lo una: nos enfrentamos a retos de muchos frentes y la actual Free Software Foundation no está a la altura de la tarea. El ecosistema del software libre y abierto está floreciendo, y es hora de que la FSF tome las riendas y dirija sus próximos éxitos en nombre de la libertad del software.
