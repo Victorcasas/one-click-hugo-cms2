@@ -15,7 +15,7 @@ image: img/free-soft.jpg
 ---
 Sus logros son inconfundibles y le debemos gratitud y admiración por décadas de hitos en el establecimiento y avance de la causa. Los [principios de la libertad del software](https://www.gnu.org/philosophy/free-sw.es.html) son hoy en día más importantes que nunca y los productos surgidos de la institución siguen siendo necesarios y útiles: la familia de licencias GPL, GCC, GNU coreutils, etcétera. Sin embargo, las organizaciones detrás de este trabajo se están tambaleando.
 
->  La **[Free Software Foundation ](https://www.fsf.org/)**debe ocuparse sobre todo de los objetivos siguientes: 
+>  La [Free Software Foundation](https://www.fsf.org/)debe ocuparse sobre todo de los objetivos siguientes: 
 >
 > * Difundir la filosofía del software libre
 > * Desarrollar, publicar y promover licencias copyleft
