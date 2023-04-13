@@ -1,8 +1,9 @@
 baseurl = "/"
 languageCode = "es"
-languageLang = "es"
+languageLang = "es_ES"
 defaultContentLanguage = "es"
-defaultContentLang = "es"
+defaultContentLang = "es_ES"
+timeZone = "Europe/Madrid"
 title = "Página de inicio"
 
 # RSS, categories and tags disabled for an easy start
