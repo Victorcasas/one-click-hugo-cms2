@@ -1,15 +1,14 @@
 ---
-title: La Fundación para el Software Libre agoniza
+title: ¿Agoniza la Fundación por el Software Libre?
 date: 2023-04-13T05:54:00.789Z
 description: >-
   La Free Software Foundation es uno de los proyectos más longevos del
   movimiento del software libre, definiéndolo de hecho. Proporciona una base
-  legal para el movimiento y organiza el activismo en torno a la libertad del
-  software. El proyecto GNU, estrechamente relacionado, tiene su propia y larga
-  historia en nuestro movimiento como el brazo de codificación de la Fundación,
-  llevando estos principios y filosofía a la práctica mediante el desarrollo de
-  software libre; en particular, el sistema operativo GNU que descansa sobre
-  GNU/Linux.
+  legal para el movimiento y organiza el activismo. El proyecto GNU,
+  estrechamente relacionado, tiene su propia y larga historia como brazo de
+  programación de la Fundación, llevando sus principios y filosofía a la
+  práctica mediante el desarrollo de software libre, en particular, el sistema
+  operativo GNU sobre que descansa con éxito GNU/Linux.
 
   Hoy, casi 40 años después, la FSF agoniza.
 image: img/free-soft.jpg
