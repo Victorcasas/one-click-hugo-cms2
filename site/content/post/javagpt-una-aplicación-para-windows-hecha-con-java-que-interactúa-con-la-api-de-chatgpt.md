@@ -1,11 +1,10 @@
 ---
-title: "JavaGPT: Una aplicación para Windows hecha con java que interactúa con
-  la API de ChatGPT."
+title: "JavaGPT: Una aplicación para Windows desarrollada con Java que
+  interactúa con ChatGPT"
 date: 2023-05-23T06:53:48.671Z
-description: >+
-  Una nueva aplicación desarrollada con Java que te permite conversar con la
-  parlanchina IA es instalable en cualquier versión de Windows
-
+description: >
+  Una nueva aplicación desarrollada con Java, instalable en cualquier versión de
+  Windows, que te permitirá conversar más con la parlanchina IA 
 image: img/gettyimages-1251973969.jpg
 ---
 Puedes acceder a **ChatGPT** de varias maneras: a través del sitio web, de programas de terceros, de aplicaciones móviles e incluso de accesos directos de Siri. Pero ahora una nueva aplicación basada en Java te permite hablar con la **IA parlanchina** directamente en cualquier versión de **Windows**, desde Windows 98 hasta Windows 11.
